@@ -1,0 +1,12 @@
+Root 계정을 여러개 만들 수 있음
+ - id가 중복으로 가입이 가능함
+
+계정 삭제시 root계정이 삭제됨
+- 최초삭제시 삭제 실패 메시지가 발생되지만 재 로그인시 root 계정이 삭제되었음을 확인 할 수있다.
+
+한글 깨짐
+
+게시판에 삭제기능이 없음
+System.out.println(pstmt);
+System.out.println(rs);
+System.out.println(flag);
